@@ -134,7 +134,7 @@
                 </li>
               </ul>
             </div>
-            <button class="more-btn"><span>더보기</span></button>
+            <button class="more_btn"><span>더보기</span></button>
           </div>
         </section>
         <section class="sc-partners">

@@ -18,7 +18,7 @@
     </div>
     <div class="inner">
     <div class="ft-left">
-        <img src="../assets/images/ft_logo.png" alt="" class="ft-logo" />
+        <img src="/project/web_project/assets/images/ft_logo.png" alt="" class="ft-logo" />
         <p class="copy">Copyright &copy; 2023 by PLUXITY. All Rights Reserved</p>
         <p class="addr">
         (06768) 서울시 서초구 양재대로2길 18 호반파크 2관 4층 테크랩 T01 (우면동
@@ -58,18 +58,18 @@
         <div class="ft-brand">
             <p class="ft-brand-title">Brand</p>
             <div class="ft-brand-list">
-            <img src="../assets/images/ft_brand_golf.png" alt="" />
-            <img src="../assets/images/ft_brand_safers.png" alt="" />
+            <img src="/project/web_project/assets/images/ft_brand_golf.png" alt="" />
+            <img src="/project/web_project/assets/images/ft_brand_safers.png" alt="" />
             </div>
         </div>
         <div class="ft-social">
             <p class="ft-social-title">Social Media</p>
             <div class="ft-social-list">
             <a href="#"
-                ><img src="../assets/images/ft-ico-youtube.png" alt="YouTube"
+                ><img src="/project/web_project/assets/images/ft-ico-youtube.png" alt="YouTube"
             /></a>
             <a href="#"
-                ><img src="../assets/images/ft-ico-inkedin.png" alt="LinkedIn"
+                ><img src="/project/web_project/assets/images/ft-ico-inkedin.png" alt="LinkedIn"
             /></a>
             </div>
         </div>

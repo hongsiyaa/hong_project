@@ -330,6 +330,7 @@
 .ft-right-bottom .ft-brand-list,
 .ft-right-bottom .ft-social-list {
   display: flex;
+  align-items: center;
 }
 .ft-right-bottom .ft-brand-list {
   gap: 44px;

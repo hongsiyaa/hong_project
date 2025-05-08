@@ -21,7 +21,7 @@
   height: 10px;
   background: rgba(999, 999, 999, 0.6);
 }
-.sub-text {
+#main .sc-visual .sub-text {
   width: 344px;
   letter-spacing: -0.04em;
 }
